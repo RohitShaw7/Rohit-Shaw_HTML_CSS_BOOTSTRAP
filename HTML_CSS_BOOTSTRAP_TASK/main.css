@@ -1,0 +1,91 @@
+#first{
+  color: white;
+  height: 50px;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 23px;
+}
+
+.img{
+  padding-top: 2px;
+  padding-left: 2px; 
+  height: 45px;
+  width: 45px;
+  text-align: left;
+  position: absolute;
+}
+
+#color{
+  background-color: #add8e6;
+  font-weight: bold;
+  border: 0;  
+}
+
+#googlecolor{
+  background: #dd4b39;
+  padding: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+#fbcolor{
+  background-color: blue;
+  padding: 15px;
+  color: white;
+  font-weight: bold;
+}
+
+#align{
+  text-align: right;
+}
+
+#epamlogin{
+  background-color: #ffb95c;
+  padding: 10px;
+  color: white;
+  border: 0;
+  font-weight: bold;
+}
+
+#fyp{
+  position: absolute;
+  padding-right: 100px;
+}
+
+#reg{
+  padding-left: 310px;
+}
+
+.hr{ 
+   height: 23px;
+   width: 10%; 
+   border-bottom: 2px solid #add8e6;  
+} 
+
+.h2{
+  text-align: center;
+  color: #add8e6;
+}
+.input-icons i { 
+  position: absolute; 
+} 
+
+.input-icons { 
+  width: 100%; 
+  margin-bottom: 10px; 
+} 
+
+.icon { 
+  padding: 13px;
+  padding-left: 0px; 
+  min-width: 40px; 
+  align-items: flex-start;
+  margin-left: 370px;
+  position: fixed;
+} 
+
+.input-field { 
+  width: 100%; 
+  padding: 10px; 
+  text-align: left; 
+}
